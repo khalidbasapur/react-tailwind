@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tailwind/static/css/main.767097fd.chunk.css",
+    "main.js": "/react-tailwind/static/js/main.6e8ec54b.chunk.js",
+    "main.js.map": "/react-tailwind/static/js/main.6e8ec54b.chunk.js.map",
+    "runtime-main.js": "/react-tailwind/static/js/runtime-main.ef017eee.js",
+    "runtime-main.js.map": "/react-tailwind/static/js/runtime-main.ef017eee.js.map",
+    "static/js/2.f33d654a.chunk.js": "/react-tailwind/static/js/2.f33d654a.chunk.js",
+    "static/js/2.f33d654a.chunk.js.map": "/react-tailwind/static/js/2.f33d654a.chunk.js.map",
+    "index.html": "/react-tailwind/index.html",
+    "precache-manifest.96ce112f8ef36fb7a2deb27960c5e630.js": "/react-tailwind/precache-manifest.96ce112f8ef36fb7a2deb27960c5e630.js",
+    "service-worker.js": "/react-tailwind/service-worker.js",
+    "static/css/main.767097fd.chunk.css.map": "/react-tailwind/static/css/main.767097fd.chunk.css.map",
+    "static/js/2.f33d654a.chunk.js.LICENSE.txt": "/react-tailwind/static/js/2.f33d654a.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/react-tailwind/static/media/profile.5d206f95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef017eee.js",
+    "static/js/2.f33d654a.chunk.js",
+    "static/css/main.767097fd.chunk.css",
+    "static/js/main.6e8ec54b.chunk.js"
+  ]
+}
